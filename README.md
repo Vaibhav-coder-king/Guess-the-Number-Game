@@ -44,7 +44,7 @@ Range Width	Level
 3 - 10	Easy
 11 - 50	Moderate
 51 - 100	Hard
-more than 100	Very Hard
+=>100	Very Hard
 
 # 👨‍💻 Author
 Developed by Vaibhav-coder-king.
