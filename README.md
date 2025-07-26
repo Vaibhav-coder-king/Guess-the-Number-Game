@@ -34,6 +34,11 @@ You can choose to play again or exit.
 
 <img width="872" height="593" alt="image" src="https://github.com/user-attachments/assets/984f4856-c3f0-4bff-b37a-801eff13b500" />
 
+<img width="1070" height="699" alt="image" src="https://github.com/user-attachments/assets/aa72af88-faa3-45e5-83bc-87abe57aa2da" />
+
+<img width="676" height="647" alt="image" src="https://github.com/user-attachments/assets/7c0182fe-b5dd-4348-a034-dfd0b79604ab" />
+
+
 # 🧠 Difficulty Levels
 Range Width	Level
 3 - 10	Easy
