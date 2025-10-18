@@ -50,5 +50,6 @@ Range Width	Level :
 
 =>100	Very Hard
 
-# 👨‍💻 Author
-Developed by Vaibhav-coder-king.
+# 🙋‍♂️ Author
+
+Made BY [Vaibhav-coder-king](https://github.com/Vaibhav-coder-king)
